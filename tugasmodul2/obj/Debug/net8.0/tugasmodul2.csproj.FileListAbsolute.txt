@@ -1,0 +1,14 @@
+C:\Alpro Sistem Informasi\tugasmodul2\bin\Debug\net8.0\tugasmodul2.exe
+C:\Alpro Sistem Informasi\tugasmodul2\bin\Debug\net8.0\tugasmodul2.deps.json
+C:\Alpro Sistem Informasi\tugasmodul2\bin\Debug\net8.0\tugasmodul2.runtimeconfig.json
+C:\Alpro Sistem Informasi\tugasmodul2\bin\Debug\net8.0\tugasmodul2.dll
+C:\Alpro Sistem Informasi\tugasmodul2\bin\Debug\net8.0\tugasmodul2.pdb
+C:\Alpro Sistem Informasi\tugasmodul2\obj\Debug\net8.0\tugasmodul2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alpro Sistem Informasi\tugasmodul2\obj\Debug\net8.0\tugasmodul2.AssemblyInfoInputs.cache
+C:\Alpro Sistem Informasi\tugasmodul2\obj\Debug\net8.0\tugasmodul2.AssemblyInfo.cs
+C:\Alpro Sistem Informasi\tugasmodul2\obj\Debug\net8.0\tugasmodul2.csproj.CoreCompileInputs.cache
+C:\Alpro Sistem Informasi\tugasmodul2\obj\Debug\net8.0\tugasmodul2.dll
+C:\Alpro Sistem Informasi\tugasmodul2\obj\Debug\net8.0\refint\tugasmodul2.dll
+C:\Alpro Sistem Informasi\tugasmodul2\obj\Debug\net8.0\tugasmodul2.pdb
+C:\Alpro Sistem Informasi\tugasmodul2\obj\Debug\net8.0\tugasmodul2.genruntimeconfig.cache
+C:\Alpro Sistem Informasi\tugasmodul2\obj\Debug\net8.0\ref\tugasmodul2.dll
